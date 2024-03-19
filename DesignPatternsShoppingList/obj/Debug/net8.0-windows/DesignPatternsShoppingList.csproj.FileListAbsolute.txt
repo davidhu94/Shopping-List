@@ -1,0 +1,66 @@
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.exe
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.deps.json
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.runtimeconfig.json
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.dll
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.pdb
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList_MarkupCompile.cache
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList_MarkupCompile.lref
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.g.resources
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.AssemblyInfo.cs
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.dll
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\refint\DesignPatternsShoppingList.dll
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.pdb
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.genruntimeconfig.cache
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\ref\DesignPatternsShoppingList.dll
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\EditWindow.g.cs
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\EditWindow.baml
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.exe
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.deps.json
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.runtimeconfig.json
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.dll
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.pdb
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\EditWindow.g.cs
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList_MarkupCompile.cache
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList_MarkupCompile.lref
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\EditWindow.baml
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.g.resources
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.AssemblyInfo.cs
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.dll
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\refint\DesignPatternsShoppingList.dll
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.pdb
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.genruntimeconfig.cache
+C:\Users\david\OneDrive\Skrivbord\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\ref\DesignPatternsShoppingList.dll
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.exe
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.deps.json
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.runtimeconfig.json
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.dll
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\bin\Debug\net8.0-windows\DesignPatternsShoppingList.pdb
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\EditWindow.g.cs
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList_MarkupCompile.cache
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList_MarkupCompile.lref
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\EditWindow.baml
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.g.resources
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.AssemblyInfo.cs
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.dll
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\refint\DesignPatternsShoppingList.dll
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.pdb
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\DesignPatternsShoppingList.genruntimeconfig.cache
+C:\Users\david\OneDrive\Skrivbord\Skola\Inlämningar\Design Patterns\DesignPatternsShoppingList\DesignPatternsShoppingList\DesignPatternsShoppingList\obj\Debug\net8.0-windows\ref\DesignPatternsShoppingList.dll
